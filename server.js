@@ -12,6 +12,8 @@ app.get("*", function(req, res) {
 
 var hello = "Hello World";
 
+// A comment is added
+
 app.listen(port, function(err) {
 	if (err)
 		console.log(err);
