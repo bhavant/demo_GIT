@@ -1,0 +1,18 @@
+{
+  "name": "HTML5_CSS3_Tut",
+  "version": "0.0.0",
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thimmu",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.6.1",
+    "chai": "^3.1.0",
+    "express": "^4.13.1",
+    "body-parser": "^1.13.2",
+    "supertest": "^1.0.1"
+  }
+}
