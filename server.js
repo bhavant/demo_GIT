@@ -10,6 +10,8 @@ app.get("*", function(req, res) {
 	res.status(200).send("Hello World");
 });
 
+var hello = "Hello World";
+
 app.listen(port, function(err) {
 	if (err)
 		console.log(err);
